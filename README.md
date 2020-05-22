@@ -344,6 +344,7 @@ A curated list of amazingly awesome awesomeness.
 	- XMPP
 		- [Ejabberd](https://github.com/shantanu-deshmukh/awesome-ejabberd)
 	- [Typography](https://github.com/Jolg42/awesome-typography)
+	- [Open source business apps]()
 
 ## License
 
